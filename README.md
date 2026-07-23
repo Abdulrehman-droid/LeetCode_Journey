@@ -21,4 +21,8 @@ In this repo i will upload my leetcode problems solution so i can track my progr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Abdulrehman-droid/LeetCode_Journey/tree/main/0217-contains-duplicate/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Abdulrehman-droid/LeetCode_Journey/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
